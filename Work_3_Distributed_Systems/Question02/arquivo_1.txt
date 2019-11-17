@@ -1,0 +1,5 @@
+arquivo
+
+path:
+/home/ricardo/Documentos/8_Semestre/Sistemas_Distribuídos/Trabalhos/Trabalho_3/Ricardo_Bruno
+
